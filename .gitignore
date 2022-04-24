@@ -1,0 +1,5 @@
+*.vscode
+tempCodeRunnerFile.py
+RealTimeRecording.py
+readpcm.py
+*.wav

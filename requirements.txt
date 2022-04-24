@@ -1,0 +1,9 @@
+scipy
+numpy
+matplotlib
+pandas
+sklearn
+torch
+seabornl
+librosa
+dtw-python
